@@ -1,1 +1,1 @@
-Get-service "wisvc" $env:Service
+Get-service $env:Service
